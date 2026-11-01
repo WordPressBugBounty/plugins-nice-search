@@ -1,0 +1,1 @@
+# plugins-nice-search
